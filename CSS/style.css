@@ -18,11 +18,7 @@ h1,h2,h3{
 }
 
 #apply-section{
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  flex-grow: 1;
-  align-content: center;
-  margin: 80px;
- 
+  margin: 0 0;
+  width: 100%;
+  align-content:center;
 }
