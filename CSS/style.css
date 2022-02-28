@@ -20,4 +20,7 @@ h1,h2,h3{
 #apply-id{
   display: flex;
   align-item: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  flex-grow: 1;
 }
