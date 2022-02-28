@@ -17,7 +17,7 @@ h1,h2,h3{
   font-weight: normal;
 }
 
-#apply-id{
+#apply-section{
   display: flex;
   align-item: center;
   flex-wrap: wrap;
