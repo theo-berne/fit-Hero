@@ -18,5 +18,5 @@ h1,h2,h3{
 }
 
 #apply-section{
-  display:flex;
+  margin: 10px;
 }
