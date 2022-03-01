@@ -19,9 +19,4 @@ h1,h2,h3{
 
 #apply-section{
   display:flex;
-  flex-align:center;
-  flex-grow:1;
-  margin: 0px;
-  align-content:center;
-  align-item:center;
 }
